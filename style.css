@@ -1,0 +1,31 @@
+p {
+
+	font-size: 10pt;
+
+	color: yellow;
+
+	font-family: verdana;
+
+}
+
+
+
+body {
+
+	background-color: black;
+
+	margin-left: 2cm;
+
+	margin-right: 2cm;
+
+}
+
+
+
+H1 {
+
+	color: blue;
+
+	font-family: Arial;
+
+	text-decoration: underline;
